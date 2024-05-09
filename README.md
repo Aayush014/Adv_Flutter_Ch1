@@ -1,16 +1,16 @@
-# Adv Flutter Ch1
+<h1 align="center">ADVANCE FLUTTER CH1</h1>
 
-A new Flutter project.
+<h3 align="center">🌅 Switch Themes 🌃</h3>
+<p align="center">
+  <img src='https://github.com/Aayush141105/Adv_Flutter_Ch1/assets/133498952/6fd8821e-72e1-4ef9-897d-2639a1e794c0' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Aayush141105/Adv_Flutter_Ch1/assets/133498952/511ddc0b-0b18-4236-8455-609edced56f2' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
 
-## Getting Started
+  <div align="center">
+    <a href="https://github.com/Aayush141105/Adv_Flutter_Ch1/tree/master/lib/Theme%20Change">🔗Go to dart file</a>
 
-This project is a starting point for a Flutter application.
+<video src="https://github.com/Aayush141105/Adv_Flutter_Ch1/assets/133498952/1169695b-134a-4bc3-b75f-610945502dfe" width="400">
+  </div>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
