@@ -11,6 +11,20 @@
 <video src="https://github.com/Aayush141105/Adv_Flutter_Ch1/assets/133498952/1169695b-134a-4bc3-b75f-610945502dfe" width="400">
   </div>
 </p>
+<h3 align="center">➕ Counter App ➕</h3>
+<p align="center">
+  <img src='https://github.com/Aayush141105/Adv_Flutter_Ch1/assets/133498952/0f22af94-563d-41a7-aa2b-597b8aaa3a5d' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <div align="center">
+    <a href="https://github.com/Aayush141105/Adv_Flutter_Ch1/tree/master/lib/Counter%20App">🔗Go to dart file</a>
+
+<video src="https://github.com/Aayush141105/Adv_Flutter_Ch1/assets/133498952/39891868-85c1-499a-9b7a-8cae37f96dd5" width="400">
+  </div>
+</p>
+
+
+
+
 
 
 
