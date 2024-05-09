@@ -20,6 +20,7 @@ class ThemeClass {
   );
 
   static ThemeData darkTheme = ThemeData(
+    brightness: Brightness.dark,
      scaffoldBackgroundColor: const Color(0xff1c1c1e),
     textTheme:  const TextTheme(
       titleLarge: TextStyle(
@@ -29,7 +30,8 @@ class ThemeClass {
         color: Colors.grey,
       ),
     ),
-    colorScheme: ColorScheme.light(
+    colorScheme: ColorScheme.dark(
+      brightness: Brightness.dark,
       primary: Colors.white12,
       secondary: Colors.red,
       surface: Colors.yellow.shade400,
