@@ -7,4 +7,12 @@ class CounterProvider extends ChangeNotifier {
     num++;
     notifyListeners();
   }
+  void dec() {
+    num--;
+    notifyListeners();
+  }
+  void zero() {
+    num = 0;
+    notifyListeners();
+  }
 }

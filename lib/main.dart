@@ -1,5 +1,6 @@
 import 'package:adv_flutter_ch1/Counter%20App/counter_screen.dart';
 import 'package:adv_flutter_ch1/Counter%20App/provider/counter_provider.dart';
+import 'package:adv_flutter_ch1/Stepper%20App/stepper_app.dart';
 import 'package:adv_flutter_ch1/Theme%20Change/main_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -19,13 +20,14 @@ class MyApp extends StatelessWidget {
       create: (context) => CounterProvider(),
       builder:(context, child) =>  MaterialApp(
         debugShowCheckedModeBanner: false,
-        theme: ThemeClass.lightTheme,
-        darkTheme: ThemeClass.darkTheme,
-        themeMode: ThemeMode.system,
+        // theme: ThemeClass.lightTheme,
+        // darkTheme: ThemeClass.darkTheme,
+        // themeMode: ThemeMode.light,
         initialRoute: 'counter',
         routes: {
-          '/': (context) => MainScreen(),
-          'counter': (context) => CounterApp()
+          '/': (context) => const MainScreen(),
+          'counter': (context) => const CounterApp(),
+          'step': (context) => const SteperApp(),
         },
       ),
     );

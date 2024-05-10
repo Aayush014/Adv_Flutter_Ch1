@@ -11,18 +11,44 @@ class CounterApp extends StatelessWidget {
       body: Center(
         child: Text(
           Provider.of<CounterProvider>(context, listen: true).num.toString(),
-          style: const TextStyle(
-            fontSize: 50,
+          style: TextStyle(
+            color: (Provider.of<CounterProvider>(context).num % 2 == 0)
+                ? Colors.red
+                : Colors.blue,
+            fontSize: 55,
+            fontWeight: FontWeight.bold
           ),
         ),
       ),
-      floatingActionButton: FloatingActionButton(
-        backgroundColor: Colors.blue,
-        onPressed: () {
-          Provider.of<CounterProvider>(context, listen: false).incr();
-        },
-        child: Icon(Icons.add),
+      floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
+      floatingActionButton: Row(
+        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        children: [
+          FloatingActionButton(
+            backgroundColor: Colors.blue,
+            onPressed: () {
+              Provider.of<CounterProvider>(context, listen: false).incr();
+            },
+            child: const Icon(Icons.add),
+          ),
+          FloatingActionButton(
+            backgroundColor: Colors.blue,
+            onPressed: () {
+              Provider.of<CounterProvider>(context, listen: false).zero();
+            },
+            child: const Icon(Icons.restart_alt),
+          ),
+          FloatingActionButton(
+            backgroundColor: Colors.blue,
+            onPressed: () {
+              Provider.of<CounterProvider>(context, listen: false).dec();
+            },
+            child: const Icon(Icons.remove),
+          ),
+        ],
       ),
     );
   }
 }
+
+bool click = false;
