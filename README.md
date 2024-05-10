@@ -1,16 +1,30 @@
-# Adv Flutter Ch1
+<h1 align="center">ADVANCE FLUTTER CH1</h1>
 
-A new Flutter project.
+<h3 align="center">🌅 Switch Themes 🌃</h3>
+<p align="center">
+  <img src='https://github.com/Aayush141105/Adv_Flutter_Ch1/assets/133498952/6fd8821e-72e1-4ef9-897d-2639a1e794c0' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Aayush141105/Adv_Flutter_Ch1/assets/133498952/511ddc0b-0b18-4236-8455-609edced56f2' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
 
-## Getting Started
+  <div align="center">
+    <a href="https://github.com/Aayush141105/Adv_Flutter_Ch1/tree/master/lib/Theme%20Change">🔗Go to dart file</a>
 
-This project is a starting point for a Flutter application.
+<video src="https://github.com/Aayush141105/Adv_Flutter_Ch1/assets/133498952/1169695b-134a-4bc3-b75f-610945502dfe" width="400">
+  </div>
+</p>
+<h3 align="center">➕ Counter App ➕</h3>
+<p align="center">
+  <img src='https://github.com/Aayush141105/Adv_Flutter_Ch1/assets/133498952/0f22af94-563d-41a7-aa2b-597b8aaa3a5d' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
 
-A few resources to get you started if this is your first Flutter project:
+  <div align="center">
+    <a href="https://github.com/Aayush141105/Adv_Flutter_Ch1/tree/master/lib/Counter%20App">🔗Go to dart file</a>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<video src="https://github.com/Aayush141105/Adv_Flutter_Ch1/assets/133498952/39891868-85c1-499a-9b7a-8cae37f96dd5" width="400">
+  </div>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
