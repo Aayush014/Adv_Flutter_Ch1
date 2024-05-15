@@ -22,9 +22,15 @@
   </div>
 </p>
 
+<h3 align="center">🪜 Stepper Widget 🪜</h3>
+<p align="center">
+  <img src='https://github.com/Aayush014/Adv_Flutter_Ch1/assets/133498952/3a6bf540-b362-403d-9ef7-f14f03f40e58' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Aayush014/Adv_Flutter_Ch1/assets/133498952/c520d90e-f8ba-4d7b-9d6c-dabe0827f923' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
 
+  <div align="center">
+    <a href="https://github.com/Aayush014/Adv_Flutter_Ch1/tree/master/lib/Stepper%20App">🔗Go to dart file</a>
 
-
-
-
-
+<video src="https://github.com/Aayush014/Adv_Flutter_Ch1/assets/133498952/cd07f24a-a97b-4558-9921-0150f37f7bc8" width="400">
+<video src="https://github.com/Aayush014/Adv_Flutter_Ch1/assets/133498952/8582b28d-3d32-4a68-a261-51a00a345fc6" width="400">
+  </div>
+</p>
